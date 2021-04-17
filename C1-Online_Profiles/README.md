@@ -13,6 +13,7 @@ https://github.com/PreethiRamamoorthy
 www.linkedin.com/in/preethi-ramamoorthy-1b970219
 
 ### Resume
+[Resume_Preethi Ramamoorthy.pdf](https://github.com/PreethiRamamoorthy/liftoff-assignments/files/6330215/Resume_Preethi.Ramamoorthy.pdf)
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 

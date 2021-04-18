@@ -1,4 +1,4 @@
-![WireFrame_Hospital Administration](https://user-images.githubusercontent.com/70731697/115132270-51d12700-9fc4-11eb-93bc-cee72cd97a0d.jpeg)
+
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
@@ -10,6 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+
+![WireFrame_Hospital Administration](https://user-images.githubusercontent.com/70731697/115132276-6ad9d800-9fc4-11eb-88bf-8a49d93eb8d0.jpeg)
+
 
 ### Project Tracker
 

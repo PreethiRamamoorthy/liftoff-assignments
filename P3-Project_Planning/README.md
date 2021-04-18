@@ -1,3 +1,4 @@
+![WireFrame_Hospital Administration](https://user-images.githubusercontent.com/70731697/115132270-51d12700-9fc4-11eb-93bc-cee72cd97a0d.jpeg)
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
